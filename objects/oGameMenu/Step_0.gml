@@ -25,3 +25,6 @@ if button_check(_x_, _y_, _x1_, _y1_) {
 		room_goto_next()
 	}
 }
+
+///////
+audio_sound_gain(music_id, 1, 2000);
