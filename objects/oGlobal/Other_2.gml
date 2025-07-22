@@ -1,0 +1,1 @@
+global.TENTATIVAS = 4

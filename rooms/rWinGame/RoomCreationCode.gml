@@ -1,0 +1,3 @@
+audio_sound_gain(oGlobal.music_id, 0, 0);
+oGlobal.sound = audio_play_sound(sndWinGame, 20, 0)
+
